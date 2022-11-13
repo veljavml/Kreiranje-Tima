@@ -1,4 +1,4 @@
-#Angular aplikacija koja omogućava nasumično kreiranje timova na osnovu unetih članova.
+# Angular aplikacija koja omogućava nasumično kreiranje timova na osnovu unetih članova.
 ![Screenshot_7](https://user-images.githubusercontent.com/111191947/201542305-42f6a5f7-d440-49fc-a696-3ad12814b51e.png)
 
 ![Screenshot_8](https://user-images.githubusercontent.com/111191947/201542306-10828e6c-7857-4e69-8eb3-aa35f70b0ea3.png)
